@@ -1,0 +1,6 @@
+{
+  "name": "Kurdish Xosh Web and Xosh Chat",
+  "description": "Modern green-themed web portal for the Kurdish Xosh Roblox experience and the Xosh Chat companion app featuring KDID server rooms, unique App IDs, floating bubble interface, and trilingual Sorani support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
